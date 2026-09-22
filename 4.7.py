@@ -3,7 +3,6 @@ print("Pabpal1418")
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# 10 students (each listed twice: Math then Science)
 students = [
     "Ana", "Ana", "Ben", "Ben", "Cara", "Cara", "Drew", "Drew", "Eli", "Eli",
     "Fay", "Fay", "Gabe", "Gabe", "Hana", "Hana", "Ian", "Ian", "Jade", "Jade"
